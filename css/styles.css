@@ -98,10 +98,6 @@ header .logo {
   box-shadow: 1px 4px 10px rgba(128, 128, 128, 0.272);
   position: relative;
 }
-.fonctionnement .explication:hover {
-  background-color: #9356DC;
-  color: white;
-}
 .fonctionnement .explication .fa-mobile-screen-button {
   margin-right: 15px;
   margin-left: 10px;
