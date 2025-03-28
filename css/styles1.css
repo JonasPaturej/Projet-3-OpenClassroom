@@ -10,12 +10,11 @@ body {
     max-width: 1440px;
   }
 }
-
-.loader{
-  width:50px;
-  height:50px;
-  border:5px solid #ffffff;
-  border-top:5px solid #9356dc;
+body .loader {
+  width: 50px;
+  height: 50px;
+  border: 5px solid #ffffff;
+  border-top: 5px solid #9356dc;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }
